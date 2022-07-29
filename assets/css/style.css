@@ -25,3 +25,7 @@ body {
 .carousel-caption {
     top: 0;
 }
+
+.company-image img {
+    width: 150px;
+}
